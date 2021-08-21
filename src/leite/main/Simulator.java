@@ -1,13 +1,9 @@
-package dgf.main;
-
+package leite.main;
 /**
- * Program Name: dgf.main.Simulator.java
- * Purpose: This class is used to create the reports, and the simulation controls. 
- * Coder: 	Danielle Miike
- * 			Felipe Leite
- * 			Georgia Patten
- *
- * Date: Aug 1, 2021
+ * Program Name:    leite.main.Simulator.java
+ * Purpose:         This class is used to create the reports, and the simulation controls.
+ * Coder: 	        Felipe Leite
+ * Date:            Aug 1, 2021
  */
 
 import javax.swing.*;

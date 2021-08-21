@@ -1,14 +1,11 @@
-package dgf.main;
+package leite.main;
 
 /**
- * Program Name: dgf.main.GuiMain.java
- * Purpose: This class is used to create the main menu to deal with user inputs an them be able to create the person and call the simulator
- * 			class
- * Coder: 	Danielle Miike
- * 			Felipe Leite
- * 			Georgia Patten
- *
- * Date: Aug 1, 2021
+ * Program Name:    leite.main.GuiMain.java
+ * Purpose:         This class is used to create the main menu to deal with user inputs and then
+ *                  be able to create the person and call the simulator class
+ * Coder: 	        Felipe Leite
+ * Date:            Aug 1, 2021
  */
 
 import javax.swing.*;

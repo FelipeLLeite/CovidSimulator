@@ -1,13 +1,11 @@
-package dgf.main;
+package leite.main;
 
 /**
- * Program Name: dgf.main.Person.java
- * Purpose:	This is a class to create a dgf.main.Person object that will be used in the
- * 			Covid-19 Simulation application.
- * Coder:	Danielle Menezes de Mello Miike
- * 			Felipe Lopes Leite
- *			 Georgia Pattern
- * Date: 	Jul 31, 2021
+ * Program Name:        leite.main.Person.java
+ * Purpose:	            This is a class to create a leite.main.Person object that will be used in the
+ * 			            Covid-19 Simulation application.
+ * Coder:	            Felipe Leite
+ * Date: 	            Jul 31, 2021
  */
 
 public class Person {
