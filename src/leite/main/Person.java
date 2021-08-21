@@ -9,7 +9,7 @@ package leite.main;
  */
 
 public class Person {
-
+    // this is just aa simple test for git
     private boolean isAlive;
     private boolean isInfected;
     protected int timeInfected;
